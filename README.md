@@ -6,11 +6,11 @@ GPS tracker with Rephone Geo Kit by seeedstudio.com
 This code runs on Rephone Geo Kit (seeedstudio.com) and an additional Xadow Basic Sensor chip (for accelerometer functionalities).
   
 Rephone Geo Kit:  
-![GeoKit](https://github.com/diarpi/IOT-GPS-Tracker/blob/master/images/geo_kit.jpg)
-![GeoKit2](https://github.com/diarpi/IOT-GPS-Tracker/blob/master/images/geo_kit_2.jpg)
+![GeoKit](https://github.com/dpelengic/IOT-GPS-Tracker/blob/master/images/geo_kit.jpg)
+![GeoKit2](https://github.com/dpelengic/IOT-GPS-Tracker/blob/master/images/geo_kit_2.jpg)
   
 Xadow Basic Sensors:  
-![XadowBasicSensors](https://github.com/diarpi/IOT-GPS-Tracker/blob/master/images/Xadow_Basic_Sensors.png)
+![XadowBasicSensors](https://github.com/dpelengic/IOT-GPS-Tracker/blob/master/images/Xadow_Basic_Sensors.png)
   
 This projects primary use case is a car GPS tracker, in case a theft occurs.
   
